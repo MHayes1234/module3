@@ -1,0 +1,12 @@
+.menu-item {
+	background-color: lightgrey;
+	margin-bottom: 50px;
+}
+
+.btn-link {
+	color: darkblue;
+}
+
+.navbar-toggle {
+	margin-top: 20px;
+}
